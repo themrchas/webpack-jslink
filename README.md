@@ -2,4 +2,5 @@
 
  Code to manually inject css into the page using javascript has been commented out and imported instead.
 
-\<script type="text/javascript" src="https://command.nshq.nato.int/sites/CS/ikm/KnowledgePortal/sandbox/chaskm/SiteAssets/viewTabsBundle.js"\>\</script\>
+````html
+<script type="text/javascript" src="https://command.nshq.nato.int/sites/CS/ikm/KnowledgePortal/sandbox/chaskm/SiteAssets/viewTabsBundle.js"></script>
